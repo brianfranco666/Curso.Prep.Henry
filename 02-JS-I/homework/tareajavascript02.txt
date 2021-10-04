@@ -1,0 +1,8 @@
+CONCEPTOS:
+
+Variables: Es un elemento que sirve para almacenar, y hacer referencia a otro valor.
+String: Es todo texto, palabra o numero que va encerrado entre comillas.
+Funciones(ARGUMENTOS/RETURN): Son tipos particulares de objetos u objetos imvocables.
+    ARGUMENTOS:es todo objetos que va entre parentesis, y para agregar varios argumentos tienen que ir separados por una (,)
+    RETURN:Devuelve el resultado de una funcion.
+Declaraciones(IF): Compara dos elementos, y devuelve una respuesta; verdadera o falsa.
